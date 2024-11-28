@@ -39,13 +39,13 @@
 
 
 <h2>Create a directory for our src code</h2>
-</br> Go into Visual Studio Code, here you will need create a folder and file to the python script where the code will run. We will write our code here. example path for code <i> /testcode/src/scanner.py </i>
+</br> Go into Visual Studio Code, here you will need create a folder and file to the python script where the code will run. We will write our code here. Example path to code,  <i> /testcode/src/scanner.py </i>
 
 </br>This section of the code imports the Nmap module and creates an instance of the PortScanner class 
 </br>![Screenshot (337)](https://github.com/user-attachments/assets/1be9b5cd-91ac-46b3-841e-d2da88223f50)
 
 
-</br>This section of the code print messages to the console about our script. The scanner ask for an IP address as user input. The scanner will return responses based on the user input. 
+</br>This section of the code prints to the console about our script. The scanner ask for an IP address as user input. The scanner will return responses based on the user input. 
 </br>![Screenshot (341)](https://github.com/user-attachments/assets/32ff0bf6-97c8-4b3d-bf19-dc50870f0d63)
 
 
@@ -55,9 +55,9 @@
 
 
 <h2>Test scanner</h2>
-</br>We will now change to root privilege using the <i>sudo su</i> command. We will then navigate to the directory that our scanner.py code is found. In this "src" directory we will then use the command to run scanner using the <i>python3 scanner.py</i> command.
-</br>You will then need follow the prompt from the script and then select through the 3 options to see the output and test them with the exsisting Nmap tool on the Kali linux machine.
-</br>***Note: UDP will not scan UDP ports for the Metasploitable2 machine but is working***
+</br>We will now change to root privilege using the <i>sudo su</i> command. We will then navigate to the directory that our scanner.py code is in. In this "src" directory we will then use the command to run scanner using the <i>python3 scanner.py</i> command.
+</br>You will then need to follow the prompt from the script and then select through the 3 options to see the output and test them with the existing Nmap tool on the Kali linux machine.
+</br>***Note: UDP will not scan UDP ports for the Metasploitable2 machine. However, it is working***
 
 </br>![Screenshot (340)](https://github.com/user-attachments/assets/f2ecbcd8-bf00-41ec-90da-501b00b2a4b7)
 
