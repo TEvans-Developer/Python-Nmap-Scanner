@@ -1,7 +1,7 @@
 <H1>Python-Nmap-Scanner</H1>
 
 <h2>Objective:</h2>
-<br>This project was created to demonstrate how to automate network mapping by intergrating the <i>python-nmap</i> library, which is a Python wrapper for the popular Nmap tool commonly found in network engineering and cybersecurity environments. We will create the script in a Kali Linux virtual machine and scan the vulnerable Metasploitable2 machine which will be in our network. 
+<br>This project was created to demonstrate how to automate network mapping by integrating the <i>python-nmap</i> library, which is a Python wrapper for the popular Nmap tool commonly found in network engineering and cybersecurity environments. We will create the script in a Kali Linux virtual machine and scan the vulnerable Metasploitable2 machine which will be in our network. 
 
 
 <h4>Requirements:</h4>
