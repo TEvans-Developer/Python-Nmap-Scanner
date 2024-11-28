@@ -35,5 +35,18 @@
 </br>
 
 <h2>Create a directory for our src code</h2>
-</br> Go into Visual Studio Code, here you will need create a folder and file to the python script where the code will run. Alt.  
+</br> Go into Visual Studio Code, here you will need create a folder and file to the python script where the code will run. We will write our code here. example path for code <i> /testcode/src/scanner.py </i>
+
+</br>This section of the code 
+</br>
+
+</br>This section of the code
+</br>
+
+</br>This section of the code returns to the console responses based on the users input between 1-3. 
+</br>
+
+
+<h2>Test scanner</h2>
+</br>We will now change to root privilege using the <i>sudo su</i> command. We will then navigate to the directory that our scanner.py code is found. In this "src" directory we will then use the command to run scanner using the <i>python3 scanner.py</i> command.
 
