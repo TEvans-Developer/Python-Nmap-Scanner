@@ -1,7 +1,7 @@
 <H1>Python-Nmap-Scanner</H1>
 
 <h2>Objective:</h2>
-<br>This project was conducted to demostrate how to automate network mapping by intergrating <i>python-nmap</i> library, which is a Python wrapper for the popular Nmap tool commonly found in network engineering and cybersecurity environments. We will create the script in a Kali Linux virtual machine and scan a the vulnerable Metasploitable2 machine which will be in our network. 
+<br>This project was created to demonstrate how to automate network mapping by intergrating the <i>python-nmap</i> library, which is a Python wrapper for the popular Nmap tool commonly found in network engineering and cybersecurity environments. We will create the script in a Kali Linux virtual machine and scan the vulnerable Metasploitable2 machine which will be in our network. 
 
 
 <h4>Requirements:</h4>
@@ -13,12 +13,12 @@
 
 
 <h2>Create virtual machine</h2>
-</br> Even though this is out of the scope of the project and not our main focus point. I will provide links to installing and configuring the Oracle Vm Virtual Box, Kalli Linux machine, Visual Studio Code(on Kali Linux machine) and Metasploitable2 machine below:
+</br> Even though this is out of the scope of the project and not our main focus point. I will provide links for installing and configuring the Oracle Vm Virtual Box, Kali Linux machine, Visual Studio Code(on Kali Linux machine) and Metasploitable2 machine below:
 
-</br>
-</br>
-</br>
-</br>
+</br>https://www.youtube.com/watch?v=nvdnQX9UkMY&t=256s
+</br>https://www.youtube.com/watch?v=sAMnXte56yY
+</br>https://www.youtube.com/watch?v=1rIvnMenA2g&t=172s
+</br>https://www.youtube.com/watch?v=I9rGQFq6x_4
 
 <hr>
 
